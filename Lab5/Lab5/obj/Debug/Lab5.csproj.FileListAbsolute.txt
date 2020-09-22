@@ -1,0 +1,7 @@
+C:\Users\gapej\source\repos\Lab5\Lab5\obj\Debug\Lab5.csprojAssemblyReference.cache
+C:\Users\gapej\source\repos\Lab5\Lab5\obj\Debug\Lab5.csproj.CoreCompileInputs.cache
+C:\Users\gapej\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe.config
+C:\Users\gapej\source\repos\Lab5\Lab5\bin\Debug\Lab5.exe
+C:\Users\gapej\source\repos\Lab5\Lab5\bin\Debug\Lab5.pdb
+C:\Users\gapej\source\repos\Lab5\Lab5\obj\Debug\Lab5.exe
+C:\Users\gapej\source\repos\Lab5\Lab5\obj\Debug\Lab5.pdb
