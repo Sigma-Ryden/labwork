@@ -1,0 +1,6 @@
+C:\Users\gapej\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe.config
+C:\Users\gapej\source\repos\Lab7\Lab7\bin\Debug\Lab7.exe
+C:\Users\gapej\source\repos\Lab7\Lab7\bin\Debug\Lab7.pdb
+C:\Users\gapej\source\repos\Lab7\Lab7\obj\Debug\Lab7.csproj.CoreCompileInputs.cache
+C:\Users\gapej\source\repos\Lab7\Lab7\obj\Debug\Lab7.exe
+C:\Users\gapej\source\repos\Lab7\Lab7\obj\Debug\Lab7.pdb
