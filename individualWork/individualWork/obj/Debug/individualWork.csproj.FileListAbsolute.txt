@@ -1,0 +1,7 @@
+C:\Users\gapej\source\repos\individualWork\individualWork\bin\Debug\individualWork.exe.config
+C:\Users\gapej\source\repos\individualWork\individualWork\bin\Debug\individualWork.exe
+C:\Users\gapej\source\repos\individualWork\individualWork\bin\Debug\individualWork.pdb
+C:\Users\gapej\source\repos\individualWork\individualWork\obj\Debug\individualWork.csprojAssemblyReference.cache
+C:\Users\gapej\source\repos\individualWork\individualWork\obj\Debug\individualWork.csproj.CoreCompileInputs.cache
+C:\Users\gapej\source\repos\individualWork\individualWork\obj\Debug\individualWork.exe
+C:\Users\gapej\source\repos\individualWork\individualWork\obj\Debug\individualWork.pdb
