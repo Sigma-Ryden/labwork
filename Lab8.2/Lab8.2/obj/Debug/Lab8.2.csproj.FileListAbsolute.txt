@@ -1,0 +1,7 @@
+C:\Users\gapej\source\repos\Lab8.2\Lab8.2\bin\Debug\Lab8.2.exe.config
+C:\Users\gapej\source\repos\Lab8.2\Lab8.2\bin\Debug\Lab8.2.exe
+C:\Users\gapej\source\repos\Lab8.2\Lab8.2\bin\Debug\Lab8.2.pdb
+C:\Users\gapej\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csprojAssemblyReference.cache
+C:\Users\gapej\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8.2.csproj.CoreCompileInputs.cache
+C:\Users\gapej\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8.2.exe
+C:\Users\gapej\source\repos\Lab8.2\Lab8.2\obj\Debug\Lab8.2.pdb
