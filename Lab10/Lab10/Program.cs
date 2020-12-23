@@ -53,20 +53,28 @@ namespace Lab10
             return newString;
         }
 
-        public static double SplitReverse(this double value)
-            => Double.Parse(SplitReverse(value.ToString(CultureInfo.CurrentCulture)));
-        private static string SplitReverse(string v)
+        public static string RecurseRever( this string s)
         {
-            throw new NotImplementedException();
-        }
-        public static T[] Reverse<T>(this T[] array)
-        {
-            T[] newArray = new T[array.Length];
-            for (int i = 0, j = array.Length - 1; i < array.Length; i++, j--)
+            if (s.Length <= 0)
             {
-                newArray[i] = array[j];
+                return s;
             }
-            return newArray;
+            else
+            {
+                return s[s.Length - 1] + RecurseRever(s.Substring(0, s.Length - 1));
+            }
+        }
+        public static double DoubleReverse(this double val) => Double.Parse(DoubleReverse(val.ToString()));
+        public static string DoubleReverse(this string val)
+        {
+            string reverse = string.Empty;
+            var strings = val.Split(',');
+            for (int i = 0; i < strings.Length - 1; i++)
+            {
+                reverse += RecurseRever(strings[i]) + ',';
+            }
+            reverse += RecurseRever(strings[strings.Length - 1]);
+            return reverse;
         }
 
         public static void ShowArrayReverse(this int[] arr)
