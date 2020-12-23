@@ -1,0 +1,7 @@
+C:\Users\gapej\source\repos\Lab6(update)\Lab6(update)\bin\Debug\Lab6(update).exe.config
+C:\Users\gapej\source\repos\Lab6(update)\Lab6(update)\bin\Debug\Lab6(update).exe
+C:\Users\gapej\source\repos\Lab6(update)\Lab6(update)\bin\Debug\Lab6(update).pdb
+C:\Users\gapej\source\repos\Lab6(update)\Lab6(update)\obj\Debug\Lab6(update).csproj.CoreCompileInputs.cache
+C:\Users\gapej\source\repos\Lab6(update)\Lab6(update)\obj\Debug\Lab6(update).exe
+C:\Users\gapej\source\repos\Lab6(update)\Lab6(update)\obj\Debug\Lab6(update).pdb
+C:\Users\gapej\source\repos\Lab6(update)\Lab6(update)\obj\Debug\Lab6(update).csprojAssemblyReference.cache
