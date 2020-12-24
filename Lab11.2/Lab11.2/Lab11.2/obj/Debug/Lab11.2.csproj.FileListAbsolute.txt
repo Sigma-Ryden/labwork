@@ -1,0 +1,6 @@
+F:\CODE\SeraphimLbs\Lab11.2\Lab11.2\Lab11.2\bin\Debug\Lab11._2.exe
+F:\CODE\SeraphimLbs\Lab11.2\Lab11.2\Lab11.2\bin\Debug\Lab11._2.pdb
+F:\CODE\SeraphimLbs\Lab11.2\Lab11.2\Lab11.2\obj\Debug\Lab11.2.csprojAssemblyReference.cache
+F:\CODE\SeraphimLbs\Lab11.2\Lab11.2\Lab11.2\obj\Debug\Lab11.2.csproj.CoreCompileInputs.cache
+F:\CODE\SeraphimLbs\Lab11.2\Lab11.2\Lab11.2\obj\Debug\Lab11._2.exe
+F:\CODE\SeraphimLbs\Lab11.2\Lab11.2\Lab11.2\obj\Debug\Lab11._2.pdb
