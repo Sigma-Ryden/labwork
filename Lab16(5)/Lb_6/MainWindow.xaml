@@ -1,0 +1,45 @@
+﻿<Window x:Class="Lab_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Lab_6"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+
+        <TabControl x:Name="tbControl">
+            <TabItem x:Name="tab1" Header="Вкладка 1">
+                <Grid Background="#FFE5E5E5" KeyDown="Grid_KeyDown">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="14*"/>
+                        <ColumnDefinition Width="383*"/>
+                    </Grid.ColumnDefinitions>
+                    <TextBox x:Name="textbox1" Width="150" Margin="16,44,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="32" FontStyle="Normal" TextAlignment="Right" FontFamily="Kristen ITC" FontSize="16" TextChanged="textbox1_TextChanged" Grid.Column="1"/>
+                    <Button x:Name="buttonAdd"  Content="Add" Cursor="Hand" Width="110" Margin="184,44,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="32" Click="buttonAdd_Click" FontSize="16" FontFamily="Century Gothic" BorderBrush="#FF1F22E8" Foreground="#FFF32515" Grid.Column="1">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FFD3E73D" Offset="0"/>
+                                <GradientStop Color="#FF32E427" Offset="0.705"/>
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="16,93,0,0" VerticalAlignment="Top" Width="150" Height="32" FontSize="16" HorizontalContentAlignment="Left" FlowDirection="LeftToRight" Grid.Column="1"/>
+                    <Button x:Name="buttonDelete"  Content="Delete" Cursor="Hand" Width="110" Margin="184,93,0,0" HorizontalAlignment="Left" VerticalAlignment="Top" Height="32" Click="buttonDelete_Click" FontSize="16" FontFamily="Century Gothic" BorderBrush="#FF1F22E8" Foreground="White" Grid.Column="1">
+                        <Button.Background>
+                            <LinearGradientBrush EndPoint="0.5,1" StartPoint="0.5,0">
+                                <GradientStop Color="#FF2B3100" Offset="0.019"/>
+                                <GradientStop Color="#FFF94242" Offset="0.705"/>
+                            </LinearGradientBrush>
+                        </Button.Background>
+                    </Button>
+                    <Label Content="ПРАЦЮЮТЬ КЛАВІШІ ENTER ТА DEL" Grid.Column="1" HorizontalAlignment="Left" Margin="430,153,0,0" VerticalAlignment="Top" Height="30" Width="293"/>
+                </Grid>
+
+            </TabItem>
+            <TabItem x:Name="tab2" Header="Вкладка 2">
+                <Grid Background="#FFE5E5E5"/>
+            </TabItem>
+        </TabControl>
+    </Grid>
+</Window>
