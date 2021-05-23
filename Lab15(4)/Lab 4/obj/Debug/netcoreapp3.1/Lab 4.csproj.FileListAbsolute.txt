@@ -1,0 +1,38 @@
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.exe
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.deps.json
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.json
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.dev.json
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.dll
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.pdb
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.csprojAssemblyReference.cache
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4_MarkupCompile.cache
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4_MarkupCompile.lref
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.g.resources
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfoInputs.cache
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfo.cs
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.dll
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.pdb
+C:\Users\BodyakoV\source\repos\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.genruntimeconfig.cache
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.exe
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.deps.json
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.json
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.runtimeconfig.dev.json
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.dll
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\bin\Debug\netcoreapp3.1\Lab 4.pdb
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.csprojAssemblyReference.cache
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4_MarkupCompile.cache
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4_MarkupCompile.lref
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.g.resources
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfoInputs.cache
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.AssemblyInfo.cs
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.dll
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.pdb
+C:\Users\Maksim\Desktop\Lab 4\Lab 4\obj\Debug\netcoreapp3.1\Lab 4.genruntimeconfig.cache
